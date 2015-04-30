@@ -1,12 +1,42 @@
+<script type="text/javascript">
+	$(function() {
+		$("#descripcion").click(function(event) {
+		$("#capa").load("descripcion.html");
+		});
+		$("#inicio").click(function(event) {
+		$("#capa").load("inicio.html");
+		});
+		$("#porque").click(function(event) {
+		$("#capa").load("porque.html");
+		});
+		$("#comparacion").click(function(event) {
+		$("#capa").load("comparacion.html");
+		});
+		$("#arquitectura").click(function(event) {
+		$("#capa").load("arquitectura.html");
+		});
+		$("#ventajas").click(function(event) {
+		$("#capa").load("ventajas.html");
+		});
+		$("#recursos").click(function(event) {
+		$("#capa").load("recursos.html");
+		});
+		$("#demo").click(function(event) {
+		$("#capa").load("demo.html");
+		});
+		
+	});
+</script>
+
 <div class="row">
 	<ul class="nav nav-tabs nav-justified">
-		<li class="active"><a href="#">Inicio</a></li>
-		<li><a href="#">Descripción</a></li>
-		<li><a href="#">¿Por qué usarla?</a></li>
-		<li><a href="#">Comparación</a></li>
-		<li><a href="#">Arquitectura</a></li>
-		<li><a href="#">Ventajas y desventajas</a></li>
-		<li><a href="#">Recursos asociados</a></li>
-		<li><a href="#">DEMO</a></li>
+		<li><a id = "inicio" href="#">Inicio</a></li>
+		<li><a id = "descripcion" href="#">Descripción</a></li>
+		<li><a id = "porque" href="#">¿Por qué usarla?</a></li>
+		<li><a id = "comparacion" href="#">Comparación</a></li>
+		<li><a id = "arquitectura" href="#">Arquitectura</a></li>
+		<li><a id = "ventajas" href="#">Ventajas y desventajas</a></li>
+		<li><a id = "recursos" href="#">Recursos asociados</a></li>
+		<li><a id = "demo" href="#">DEMO</a></li>
 	</ul>
 </div>

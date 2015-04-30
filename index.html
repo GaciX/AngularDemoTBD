@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app>
     <head>
         <meta charset="utf-8">
         <title>Presentación AngularJS TBD</title>
@@ -7,13 +7,14 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/base.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
-
     </head>
 	
     <body>
 		<div id = "logo" class="header"></div>
+		
 		<div id = "contenido"></div>
-		<h1>Presentación AngularJS TBD</h1>
+		
+		<div id = "capa"></div>
 
 		<div id="pie-pagina" class="footer"></div>
 		
@@ -25,7 +26,7 @@
         	$("#pie-pagina").load("components/footer.html");
 			$("#logo").load("components/header.html");
 			$("#contenido").load("components/contenido.html");
-    	</script>
-		
+			$("#capa").load("inicio.html");
+    	</script>		
 	</body>
 </html>
