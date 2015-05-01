@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app>
+<html ng-app="demoapp">
     <head>
         <meta charset="utf-8">
         <title>Presentación AngularJS TBD</title>
@@ -10,23 +10,31 @@
     </head>
 	
     <body>
-		<div id = "logo" class="header"></div>
-		
-		<div id = "contenido"></div>
-		
-		<div id = "capa"></div>
+		<div ng-controller="ControladorPrincipal">
+            <div id="logo" class="header"></div>
+            <div id="contenido"></div>
+            <div ui-view></div>
+            <div id="pie-pagina" class="footer"></div>
+        </div>
 
-		<div id="pie-pagina" class="footer"></div>
-		
         <script src="js/jquery.min.js"></script>
-        <script src="js/angular.min.js"></script>
+        <!--<script src="js/angular.min.js"></script>-->
+
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+
+        <script src="js/angular-ui-router.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-		
-		<script type="text/javascript">
-        	$("#pie-pagina").load("components/footer.html");
-			$("#logo").load("components/header.html");
-			$("#contenido").load("components/contenido.html");
-			$("#capa").load("inicio.html");
-    	</script>		
+
+        <script src="js/demo-app.js"></script>
+        <script src="js/demo-controllers.js"></script>
+        <script src="js/demo-services.js"></script>
+
+        <script type="text/javascript">
+            $("#pie-pagina").load("components/footer.html");
+            $("#logo").load("components/header.html");
+            $("#contenido").load("components/contenido.html");
+            $("#capa").load("inicio.html");
+        </script>
+
 	</body>
 </html>
