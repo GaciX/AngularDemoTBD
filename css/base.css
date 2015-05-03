@@ -1,6 +1,18 @@
 body {
     padding-top: 120px;
 	padding-bottom: 70px;
-
 }
 
+#mapa {
+    height:450px;
+    width:650px;
+}
+.infoWindowContent {
+    font-size:  14px !important;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+h2 {
+    margin-bottom:0;
+    margin-top: 0;
+}
