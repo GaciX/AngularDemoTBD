@@ -52,4 +52,5 @@ http://blog.koalite.com/2013/06/angularjs-lo-bueno-y-lo-malo/
 http://blog.koalite.com/2013/10/angularjs-6-meses-despues/
 http://blog.koalite.com/2013/05/angularjs-conceptos-basicos/
 http://blog.koalite.com/2014/06/angularjs-gracias-por-los-servicios-prestados/ (acá menciona porqué se aburrió de Angular)
+http://www.microsoftvirtualacademy.com/training-courses/introduction-to-angularjs
 
