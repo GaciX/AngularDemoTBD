@@ -1,19 +1,24 @@
-- Introducción:
-
+﻿- Introducción:
+	- Front end (La idea sería explicar que rol cumple el encargado de desarrollar esto, que importancia tiene en un proyecto,etc.)
+	- Herramientas asociadas (HTML5,CSS,Bootstrap,etc)
+	- bla bla bla ... "Y AngularJS el framework con el cual nosotros como encargados del desarrollo del front end debemos trabajar."
 
 
 - Descripción de la tecnología
-AngularJS es un framework MVC de JavaScript para el Desarrollo Web Front End que permite crear aplicaciones SPA (Single-Page Applications).
+	-AngularJS es un framework MVC de JavaScript para el Desarrollo Web Front End que permite crear aplicaciones SPA (Single-Page Applications). 
+	-Tecnología de código abierto, desarrollada por google en el 2010, sistema operativo multiplataforma.
+	- El objetivo es que el desarrollo y las pruebas sean fáciles.
 
 
 -¿Por qué usar la tecnología?
-
+	-Porque ayuda con la declaración de vistas dinámicas en las aplicaciones  web, algo que resulta complicado de realizar solo con HTML.
+	-Porque nos ayuda a extender el vocabulario de HTML y así poder desarrollar de mánera rápida aplicaciones ordenas y entendibles.
 
 -Arquitectura general
 Planteamiento de arquitecturas estándar MVC, nos ayuda a separar conceptos, haciendo el código más manejable evitando convertirse en el temido “Spaguetti Code“.AngularJS proporciona controladores, servicios y directivas para organizar el proyecto.
-Controladores: ...
+Controladores: Son el comportamiento de los elementos que forman el DOM (Modelo de Objetos del Documento). Angular permite formular estos comportamientos sin la necesidad de estar actualizando el DOM  ni de de estar revisando los cambios en el modelo. 
 Servicios: ...
-Directivas: ...
+Directivas: característica exclusiva de AngularJS, que permite crear una sintaxis propia para HTML.
 
 -Ventajas y desventajas
 *Ventajas:
