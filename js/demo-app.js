@@ -14,6 +14,7 @@
                 when('/ventajas', {templateUrl: 'ventaja.html',   controller: 'HomeCtrl'}).
                 when('/desventajas', {templateUrl: 'desventajas.html',   controller: 'HomeCtrl'}).
                 when('/material', {templateUrl: 'material.html',   controller: 'HomeCtrl'}).
+                when('/comparacion', {templateUrl: 'comparacion.html',   controller: 'HomeCtrl'}).
                 when('/referencias', {templateUrl: 'referencias.html',   controller: 'HomeCtrl'}).
                 when('/demo', {templateUrl: 'demo.html',   controller: 'DemoCtrl'}).
                 // Otras rutas
