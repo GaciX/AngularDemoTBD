@@ -1,3 +1,27 @@
+<script type="text/javascript">
+	$(function() {
+		$("#controladores").click(function(event) {
+		$("#capa").load("components/controladores.html");
+		});
+		$("#servicios").click(function(event) {
+		$("#capa").load("components/servicios.html");
+		});
+		$("#directivas").click(function(event) {
+		$("#capa").load("components/directivas.html");
+		});
+	});
+</script>
+
 <div>
-	<h1>Arquitectura del Framework</h1>
+	<div class = "col-xs-3">
+		<h1><strong>Arquitectura del Framework</strong></h1>
+		<ul><h3>
+			<p id="controladores" href="#"><button type="button" class="btn btn-danger">Controladores</button></p>
+			<p id="servicios" href="#"><button type="button" class="btn btn-danger">Servicios</button></p>
+			<p id="directivas" href="#"><button type="button" class="btn btn-danger">Directivas</button></p>
+		<h3></ul>
+	</div>
+	<div class = "col-xs-3">
+		<div id="capa"></div>
+	</div>
 </div>
