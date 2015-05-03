@@ -26,6 +26,7 @@ AngularJS respaldado por Google y una gran y creciente comunidad.
 
 *Desventaja
 Seguridad: las llamadas están a la vista, es decir que los requeté y peticiones pueden ser vistos desde la consola. Por lo que limita la cantidad desinformación que podemos manejar.
+Falta de documentación: La documentación oficial de angular no es que esté mal, pero no es todo lo completa que a uno le gustaría, muchas veces falta ejemplos y no siempre está actualizada. Es verdad que es fácil encontrar documentación en forma de videos, tutoriales y posts, pero la velocidad a la que se desarrolla angular hace que se queden obsoletos muy pronto. En cuanto sales de los ejemplos típicos y encuentras problemas, no encuentras mucha ayuda.
 
 
 -Comparación con sus competidores en el mercado.
