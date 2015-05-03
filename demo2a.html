@@ -1,0 +1,26 @@
+<div ng-controller="JsonCtrl as jc">
+	<h1>DEMO 2: Carga de objetos JSON</h1>
+	<p>Cargando archivo JSON desde {{ruta}}</p>
+
+	<pre>{{ respuesta | json:4 }}</pre>
+	<!--<table class="table table-stripped table-hover table-condensed">
+		<thead>
+			<tr>
+				<th>Nombre Cámara</th>
+				<th>Megapixeles</th>
+				<th>Tamaño Pantalla</th>
+				<th>Tipo Memoria</th>
+				<th>Imagen</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="item in objeto.cameras.camera">
+				<td>{{item.name._content}}</td>
+				<td>{{item.details.megapixels._content}}</td>
+				<td>{{item.details.lcd_screen_size._content}}</td>
+				<td>{{item.details.memory_type._content}}</td>
+				<td><span ng-show="item.images"><a href={{item.images.large._content}} target="_blank">Link</a></span></td>
+			</tr>
+		</tbody>
+	</table>-->
+</div>

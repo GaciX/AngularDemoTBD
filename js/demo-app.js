@@ -18,23 +18,15 @@
                 when('/referencias', {templateUrl: 'referencias.html',   controller: 'HomeCtrl'}).
                 when('/demo', {templateUrl: 'demo.html',   controller: 'DemoCtrl'}).
                 when('/demo1', {templateUrl: 'demo1.html',   controller: 'MapaCtrl'}).
+                when('/demo2', {templateUrl: 'demo2.html',   controller: 'FormCtrl'}).
+                when('/demo2a/:marca', {templateUrl: 'demo2a.html',   controller: 'JsonCtrl'}).
+                when('/demo2b/:marca', {templateUrl: 'demo2b.html',   controller: 'JsonCtrl'}).
                 // Otras rutas
-                when('/list', {templateUrl: 'list.html',   controller: 'ListCtrl'}).
-                when('/detail/:itemId', {templateUrl: 'detail.html',   controller: 'DetailCtrl'}).
-                when('/settings', {templateUrl: 'settings.html',   controller: 'SettingsCtrl'}).
                 otherwise({redirectTo: '/inicio'});
 	}]);
 
 
-    app.config(function(uiGmapGoogleMapApiProvider) {
-        uiGmapGoogleMapApiProvider.configure({
-            //    key: 'your api key',
-            v: '3.17',
-            libraries: 'weather,geometry,visualization'
-        });
-    })
-
-	app.controller('MainCtrl', function($scope, Page) {
+    app.controller('MainCtrl', function($scope, Page) {
 	    //console.log(Page);
 	    $scope.page = Page; 
 	});
@@ -43,22 +35,12 @@
 	    Page.setTitle("Bienvenido");
 	});
 
-	app.controller('DemoCtrl', function($scope, $http, uiGmapGoogleMapApi, Page) {
+	app.controller('DemoCtrl', function($scope, Page) {
 	    Page.setTitle("AngularJS Demo");
-	    this.mensaje = "Hola Mundito!";
-
-         $http.get('json/canon_cameras.json').
-          success(function(data, status, headers, config) {
-            // this callback will be called asynchronously
-            // when the response is available
-            this.json = data;
-          }).
-          error(function(data, status, headers, config) {
-            // called asynchronously if an error occurs
-            // or server returns response with an error status.
-            console.log(status);
-          });
+	    this.mensaje = "Haz click en uno de los Demos para cargarlo:";
     });
+
+    var marca = null;
 
     var lugares = [
         {
@@ -151,6 +133,30 @@
             e.preventDefault();
             google.maps.event.trigger(selectedMarker, 'click');
         }
+    });
+    
+    app.controller('FormCtrl', function($scope, $http) {
+        this.mensaje = "Escoge una de las marcas de cámara para cargar la consulta en JSON o parseada en una Tabla:";
+    });
+
+    app.controller('JsonCtrl', function($scope, $http, $routeParams) {
+        $scope.ruta = "json/"+$routeParams.marca+"_cameras.json";
+        $scope.json = null;
+        $scope.estado = null;
+        
+        $http.get($scope.ruta).
+            success(function(data, status, headers, config) {
+                console.log("Se leyó el JSON");
+                $scope.respuesta = data;
+                $scope.estado = status;
+
+                $scope.objeto = angular.fromJson($scope.respuesta);
+            }).
+            error(function(data, status, headers, config) {
+                console.log("No se leyó el JSON");
+                $scope.json = data;
+                $scope.estado = status;
+            });
     });
 
 	var app = angular.module('appServices', []);

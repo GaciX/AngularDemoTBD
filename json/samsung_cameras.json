@@ -1,0 +1,2429 @@
+{
+    "cameras": {
+        "brand": "samsung",
+        "camera": [
+            {
+                "id": "galaxy-s5",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8415/cameras/72157640364800414_model_large_97c092b00d.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8415/cameras/72157640364800414_model_small_2c02bd240d.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Galaxy S5"
+                }
+            },
+            {
+                "id": "galaxy_s4",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3781/cameras/72157633043426867_model_large_1befecff96.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3781/cameras/72157633043426867_model_small_5ed413c00d.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S4"
+                }
+            },
+            {
+                "id": "galaxy-note-3",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2898/cameras/72157635427442012_model_large_b5e96e60c3.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2898/cameras/72157635427442012_model_small_8200ab9050.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Note 3"
+                }
+            },
+            {
+                "id": "galaxy-note-4",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8680/cameras/72157648534403419_model_large_00669597f5.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8680/cameras/72157648534403419_model_small_91da638942.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Note 4"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4.8"
+                    },
+                    "megapixels": {
+                        "_content": "12"
+                    },
+                    "memory_type": {
+                        "_content": "microSDXC"
+                    }
+                },
+                "id": "galaxy_s_iii",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7121/cameras/72157629852740322_model_large_61eb56aeaa.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7121/cameras/72157629852740322_model_small_2038b229d6.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S III"
+                }
+            },
+            {
+                "id": "galaxy-note-ii",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8383/cameras/72157632755320446_model_large_978a04731a.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8383/cameras/72157632755320446_model_small_87533ce60f.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Note II"
+                }
+            },
+            {
+                "id": "galaxy_s_iii_mini",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8663/cameras/72157632044478570_model_large_35bed06fd1.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8663/cameras/72157632044478570_model_small_4bb2a3c008.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Galaxy SIII Mini"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4.2"
+                    },
+                    "megapixels": {
+                        "_content": "8"
+                    },
+                    "memory_type": {
+                        "_content": "microSD"
+                    }
+                },
+                "id": "galaxy_s_ii",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6173/cameras/72157626485419110_model_large_6c38af3bd9.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6173/cameras/72157626485419110_model_small_288294e0d0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S II"
+                }
+            },
+            {
+                "id": "galaxy-s4-mini",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8658/cameras/72157633536967090_model_large_bfb4ec536a.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8658/cameras/72157633536967090_model_small_2a393ec191.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S4 Mini"
+                }
+            },
+            {
+                "id": "galaxy-win-duos",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8628/cameras/72157633273885331_model_large_b20693bd90.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8628/cameras/72157633273885331_model_small_70f21560fc.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Win Duos"
+                }
+            },
+            {
+                "id": "galaxy_s_iii_neo",
+                "images": {
+                    "large": {
+                        "_content": "https://farm9.staticflickr.com/8678/cameras/72157645133618441_model_large_f49ca1edd6.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm9.staticflickr.com/8678/cameras/72157645133618441_model_small_d56cddeec7.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S3 Neo"
+                }
+            },
+            {
+                "id": "galaxy-grand-2",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7548/cameras/72157637168035136_model_large_a67cefb979.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7548/cameras/72157637168035136_model_small_61e49e16fa.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Grand 2"
+                }
+            },
+            {
+                "id": "galaxy-s5-mini",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7525/cameras/72157645918084652_model_large_3e59e64672.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7525/cameras/72157645918084652_model_small_74034b8248.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S5 mini"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4.65"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "galaxy_nexus",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7205/cameras/72157627776523729_model_large_0e39ba3e56.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7205/cameras/72157627776523729_model_small_d08353650d.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Nexus"
+                }
+            },
+            {
+                "id": "galaxy-grand-neo",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7562/cameras/72157637705864755_model_large_2be4b9f3e0.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7562/cameras/72157637705864755_model_small_d2df4cce61.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Grand Neo"
+                }
+            },
+            {
+                "id": "galaxy-note",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7120/cameras/72157627762789555_model_large_47fa88f243.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7120/cameras/72157627762789555_model_small_4cf816e88b.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Note"
+                }
+            },
+            {
+                "id": "galaxy-grand",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7577/cameras/72157632302484491_model_large_3d25cb8a25.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7577/cameras/72157632302484491_model_small_46239a10c0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Grand"
+                }
+            },
+            {
+                "id": "galaxy-s-advance",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7490/cameras/72157628736136049_model_large_56d174e470.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7490/cameras/72157628736136049_model_small_535846feac.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S Advance"
+                }
+            },
+            {
+                "id": "galaxy-core",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7551/cameras/72157633035311023_model_large_b9bb95b43f.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7551/cameras/72157633035311023_model_small_bb341be986.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Core"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3.5"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "galaxy_ace",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6166/cameras/72157625948639270_model_large_52a6050b4e.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6166/cameras/72157625948639270_model_small_ea0595a730.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy Ace"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD"
+                    }
+                },
+                "id": "galaxy_s",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6175/cameras/72157623985657132_model_large_e4d2719099.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6175/cameras/72157623985657132_model_small_2c9f06fce1.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "20.3"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, SDHC, SDXC"
+                    }
+                },
+                "id": "nx1000",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7437/cameras/72157630075900762_model_large_ca0f332061.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7437/cameras/72157630075900762_model_small_1411d3640e.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NX1000"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "10.2"
+                    }
+                },
+                "id": "es65",
+                "images": {
+                    "large": {
+                        "_content": "https://farm5.staticflickr.com/4111/cameras/72157623646760592_model_large_9d9916993f.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm5.staticflickr.com/4111/cameras/72157623646760592_model_small_1075f9a41f.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung ES65"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "8.2"
+                    },
+                    "memory_type": {
+                        "_content": "MMCPlus, Secure Digital, SDHC"
+                    }
+                },
+                "id": "l100",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2225/cameras/72157604340286341_model_large_f3f139be3c.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2225/cameras/72157604340286341_model_small_6e537e1391.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung L100"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.4"
+                    },
+                    "megapixels": {
+                        "_content": "8.1"
+                    },
+                    "memory_type": {
+                        "_content": "MMCPlus, Secure Digital, SDHC"
+                    }
+                },
+                "id": "s860",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3243/cameras/72157603779317921_model_large_ea71475bdb.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3243/cameras/72157603779317921_model_small_c6e9e6d57b.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung S860"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "s730",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1098/cameras/72157600292799110_model_large_601e932058.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1098/cameras/72157600292799110_model_small_33bc7936ee.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung S730"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "6"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "s630",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1269/cameras/72157600292402274_model_large_ce79a2d459.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1269/cameras/72157600292402274_model_small_3ca2b117b3.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung S630"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "5.1"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_s500",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/501_model_large_99d6045a88.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/501_model_small_78315e898a.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax S500"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD"
+                    }
+                },
+                "id": "nexus_s",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6075/cameras/72157626728398240_model_large_3dd00575d3.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6075/cameras/72157626728398240_model_small_a6da7e2219.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Nexus S"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.4"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "s760",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3041/cameras/72157603849799900_model_large_7df839e7e9.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3041/cameras/72157603849799900_model_small_1d4105dd9e.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung S760"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "14.6"
+                    }
+                },
+                "id": "nx10",
+                "images": {
+                    "large": {
+                        "_content": "https://farm5.staticflickr.com/4124/cameras/72157620419289275_model_large_37eb66020b.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm5.staticflickr.com/4124/cameras/72157620419289275_model_small_bc8afe6832.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NX10"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "6"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_s600",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/99/cameras/591_model_large_d79b2d6685.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/99/cameras/591_model_small_f53aa919b5.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax S600"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_l730",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2417/cameras/72157601909895933_model_large_8a3051500b.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2417/cameras/72157601909895933_model_small_e97a2cf203.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L730"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "10.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "nv10",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/99/cameras/2253_model_large_64a51a6bf2.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/99/cameras/2253_model_small_acfe1d4169.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV10"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "3.15"
+                    },
+                    "memory_type": {
+                        "_content": "microSD"
+                    }
+                },
+                "id": "gt-s5230",
+                "images": {
+                    "large": {
+                        "_content": "https://farm5.staticflickr.com/4005/cameras/72157616387380031_model_large_413dc70195.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm5.staticflickr.com/4005/cameras/72157616387380031_model_small_5e3bb64ba4.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung GT-S5230"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.4"
+                    },
+                    "megapixels": {
+                        "_content": "5.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_a503",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/112/cameras/762_model_large_6143710567.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/112/cameras/762_model_small_7ee4a615b7.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A503"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "sgh-t959v",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6160/cameras/72157625743838619_model_large_f78fb00af1.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6160/cameras/72157625743838619_model_small_266acfe14a.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Galaxy S 4G"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3.5"
+                    },
+                    "megapixels": {
+                        "_content": "8"
+                    },
+                    "memory_type": {
+                        "_content": "CompactFlash (CF) Card"
+                    }
+                },
+                "id": "digimax_pro_815",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/100/cameras/939_model_large_6b8983d1a2.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/100/cameras/939_model_small_d332e24df0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax Pro 815"
+                }
+            },
+            {
+                "id": "sgh-i900",
+                "name": {
+                    "_content": "Samsung SGH-i900"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "8.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_l830",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2135/cameras/72157602036908528_model_large_bb444ab551.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2135/cameras/72157602036908528_model_small_f6f449cbde.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L830"
+                }
+            },
+            {
+                "id": "digimax_a402",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/855_model_large_16f404561e.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/855_model_small_acb7790ee4.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A402"
+                }
+            },
+            {
+                "id": "digimax_202",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1122/cameras/841_model_large_ab01caf358.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1122/cameras/841_model_small_2d67887218.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax 202"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "sph-d700",
+                "images": {
+                    "large": {
+                        "_content": "https://farm8.staticflickr.com/7196/cameras/72157624297372018_model_large_d16299102b.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm8.staticflickr.com/7196/cameras/72157624297372018_model_small_08df5bdcb3.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Epic 4G"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2"
+                    },
+                    "megapixels": {
+                        "_content": "7"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital"
+                    }
+                },
+                "id": "digimax_a7",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/440_model_large_03b5ddee5c.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/440_model_small_44f8c096f0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A7"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "6"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_i6_pmp",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/103/cameras/210_model_large_765b78dc74.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/103/cameras/210_model_small_55febce255.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax i6 PMP"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4.3"
+                    },
+                    "megapixels": {
+                        "_content": "8"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "droid_charge",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6178/cameras/72157626149522387_model_large_98027738e8.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6178/cameras/72157626149522387_model_small_3480d07e5d.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Droid Charge"
+                }
+            },
+            {
+                "id": "digimax_301",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/117/cameras/809_model_large_1976a3e527.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/117/cameras/809_model_small_8f838b1e9b.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax 301"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_l700",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1056/cameras/72157600288625621_model_large_36bd14e205.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1056/cameras/72157600288625621_model_small_f9e8f24c54.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L700"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "nv3",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/112/cameras/1262_model_large_d72aaf4034.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/112/cameras/1262_model_small_75a2f82731.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV3"
+                }
+            },
+            {
+                "id": "st60",
+                "name": {
+                    "_content": "Samsung ST60"
+                }
+            },
+            {
+                "id": "digimax_v4",
+                "name": {
+                    "_content": "Samsung Digimax V4"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "8.2"
+                    },
+                    "memory_type": {
+                        "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_s85",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2129/cameras/72157602505491175_model_large_1622ed0caa.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2129/cameras/72157602505491175_model_small_54e04a0039.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax S85"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "12.1"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital, SDHC"
+                    }
+                },
+                "id": "nv20",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2368/cameras/72157601891756262_model_large_2b2219f1cb.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2368/cameras/72157601891756262_model_small_f12f774851.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV20"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "8.1"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_s800",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/113/cameras/1602_model_large_faa932c4b1.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/113/cameras/1602_model_small_c150ff1341.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax S800"
+                }
+            },
+            {
+                "id": "digimax_s700",
+                "name": {
+                    "_content": "Samsung Digimax S700"
+                }
+            },
+            {
+                "id": "digimax_u-ca_5",
+                "name": {
+                    "_content": "Samsung Digimax U-CA 5"
+                }
+            },
+            {
+                "id": "digimax_v700",
+                "name": {
+                    "_content": "Samsung Digimax V700"
+                }
+            },
+            {
+                "id": "digimax_s1030",
+                "name": {
+                    "_content": "Samsung Digimax S1030"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "Flash"
+                    }
+                },
+                "id": "sgh-i897",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1285/cameras/72157624356971154_model_large_694724de6d.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1285/cameras/72157624356971154_model_small_4863bee051.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-I897"
+                }
+            },
+            {
+                "id": "sgh-e250",
+                "name": {
+                    "_content": "Samsung SGH-E250"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "sgh-i917",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6158/cameras/72157624747739438_model_large_65c46f0bde.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6158/cameras/72157624747739438_model_small_c719a4b3e0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Focus"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "1.8"
+                    },
+                    "megapixels": {
+                        "_content": "6"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_a6",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/454_model_large_cbd926e16d.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/454_model_small_8a23ba7e62.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A6"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2"
+                    },
+                    "megapixels": {
+                        "_content": "4"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital"
+                    }
+                },
+                "id": "digimax_a400",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/382_model_large_1a510897ef.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/382_model_small_067bc37b92.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A400"
+                }
+            },
+            {
+                "id": "digimax_a50",
+                "name": {
+                    "_content": "Samsung Digimax A50"
+                }
+            },
+            {
+                "id": "l83t",
+                "name": {
+                    "_content": "Samsung L83T"
+                }
+            },
+            {
+                "id": "digimax_l50",
+                "name": {
+                    "_content": "Samsung Digimax L50"
+                }
+            },
+            {
+                "id": "digimax_v5",
+                "name": {
+                    "_content": "Samsung Digimax V5"
+                }
+            },
+            {
+                "id": "digimax_u-ca_3",
+                "name": {
+                    "_content": "Samsung Digimax U-CA 3"
+                }
+            },
+            {
+                "id": "d250_digitalcam",
+                "name": {
+                    "_content": "Samsung D250 DigitalCAM"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "10.2"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital, SDHC"
+                    }
+                },
+                "id": "l200",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3174/cameras/72157604578975936_model_large_6c57b3c149.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3174/cameras/72157604578975936_model_small_8338882025.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung L200"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "8"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital, SDHC"
+                    }
+                },
+                "id": "digimax_s850",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1305/cameras/64213_model_large_a9194004b2.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1305/cameras/64213_model_small_6f673a135e.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax S850"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD\u2122"
+                    }
+                },
+                "id": "sgh-t959",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6163/cameras/72157624296671381_model_large_37a2c72aa7.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6163/cameras/72157624296671381_model_small_477b243e27.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Vibrant"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "12.2"
+                    },
+                    "memory_type": {
+                        "_content": "MMCplus, SD, SDHC"
+                    }
+                },
+                "id": "wb550",
+                "name": {
+                    "_content": "Samsung WB550, WB560 / VLUU WB550 / Samsung HZ15W"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.4"
+                    },
+                    "megapixels": {
+                        "_content": "6"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_l60",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/116/cameras/524_model_large_713119e000.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/116/cameras/524_model_small_932b67fd64.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L60"
+                }
+            },
+            {
+                "id": "digimax_a40",
+                "name": {
+                    "_content": "Samsung Digimax A40"
+                }
+            },
+            {
+                "id": "gx-20",
+                "name": {
+                    "_content": "Samsung GX-20"
+                }
+            },
+            {
+                "id": "digimax_430",
+                "name": {
+                    "_content": "Samsung Digimax 430"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "12.2"
+                    }
+                },
+                "id": "wb1000",
+                "name": {
+                    "_content": "Samsung WB1000 / VLUU WB1000 / Samsung TL320"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.7"
+                    },
+                    "megapixels": {
+                        "_content": "8.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+                    }
+                },
+                "id": "i8",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3079/cameras/72157603861337464_model_large_b5f9e7e57c.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3079/cameras/72157603861337464_model_small_d3d7d838f4.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung i8"
+                }
+            },
+            {
+                "id": "nv8",
+                "name": {
+                    "_content": "Samsung NV8"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "8.1"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_v800",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/915_model_large_f68c510a1a.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/114/cameras/915_model_small_862dd86d9a.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax V800"
+                }
+            },
+            {
+                "id": "digimax_130",
+                "name": {
+                    "_content": "Samsung Digimax 130"
+                }
+            },
+            {
+                "id": "st500",
+                "name": {
+                    "_content": "Samsung ST500 / VLUU ST500 / Samsung TL220"
+                }
+            },
+            {
+                "id": "digimax_s1000",
+                "name": {
+                    "_content": "Samsung Digimax S1000"
+                }
+            },
+            {
+                "id": "nv24hd",
+                "name": {
+                    "_content": "Samsung NV24HD"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital"
+                    }
+                },
+                "id": "digimax_i5",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/104/cameras/677_model_large_8e89c096b5.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/104/cameras/677_model_small_d79081dfa6.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax i5"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "1.6"
+                    },
+                    "megapixels": {
+                        "_content": "2"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital"
+                    }
+                },
+                "id": "digimax_201",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/100/cameras/782_model_large_8c083ac1bb.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/100/cameras/782_model_small_ff70e7de34.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax 201"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.7"
+                    },
+                    "megapixels": {
+                        "_content": "10.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+                    }
+                },
+                "id": "nv11",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1085/cameras/72157600292193559_model_large_4e8c845344.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1085/cameras/72157600292193559_model_small_7b9660b75f.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV11"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_l73",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1316/cameras/58820_model_large_9ccd85601f.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1316/cameras/58820_model_small_6a514d4193.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L73"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "4"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "microSD"
+                    }
+                },
+                "id": "gt-i8700",
+                "images": {
+                    "large": {
+                        "_content": "https://farm7.staticflickr.com/6187/cameras/72157624741164121_model_large_f72a2ee315.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm7.staticflickr.com/6187/cameras/72157624741164121_model_small_b97a3b1e83.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Omnia 7"
+                }
+            },
+            {
+                "id": "digimax_350se",
+                "name": {
+                    "_content": "Samsung Digimax 350SE"
+                }
+            },
+            {
+                "id": "digimax_300",
+                "name": {
+                    "_content": "Samsung Digimax 300"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "1.5"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "Internal, MultiMediaCard, Secure Digital"
+                    }
+                },
+                "id": "digimax_530",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/110/cameras/1821_model_large_d48bdbdec6.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/110/cameras/1821_model_small_8344d20504.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax 530"
+                }
+            },
+            {
+                "id": "digimax_l70",
+                "name": {
+                    "_content": "Samsung Digimax L70"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "12.2"
+                    }
+                },
+                "id": "st1000",
+                "name": {
+                    "_content": "Samsung ST1000"
+                }
+            },
+            {
+                "id": "digimax_200",
+                "name": {
+                    "_content": "Samsung Digimax 200"
+                }
+            },
+            {
+                "id": "digimax_230",
+                "name": {
+                    "_content": "Samsung Digimax 230"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "10.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital (SD) Card"
+                    }
+                },
+                "id": "gx-10",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1373/cameras/54030_model_large_4f3ccd3cdb.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1373/cameras/54030_model_small_7096804c89.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung GX-10"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "2"
+                    }
+                },
+                "id": "sgh-d600",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/368_model_large_42cc9ace59.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/368_model_small_6db423dfa2.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-D600"
+                }
+            },
+            {
+                "id": "sgh-g600",
+                "name": {
+                    "_content": "Samsung SGH-G600"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "10.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "s1050",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2115/cameras/72157600292617536_model_large_74b8bb5aac.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2115/cameras/72157600292617536_model_small_185a40ef83.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung S1050"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "7.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "nv7",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/120/cameras/2362_model_large_b11b9d843b.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/120/cameras/2362_model_small_a66a5961bb.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV7"
+                }
+            },
+            {
+                "id": "digimax_401",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/122/cameras/1028_model_large_629baf248b.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/122/cameras/1028_model_small_810f169ecd.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax 401"
+                }
+            },
+            {
+                "id": "digimax_d53",
+                "name": {
+                    "_content": "Samsung Digimax D53"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "Memory Stick Duo, MultiMediaCard, Secure Digital (SD) Card, Memory Stick PRO Duo"
+                    }
+                },
+                "id": "digimax_a5",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/120/cameras/1299_model_large_1bdda02e07.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/120/cameras/1299_model_small_94dfe8b27d.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A5"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "6.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital (SD) Card"
+                    }
+                },
+                "id": "gx-1l",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/118/cameras/1021_model_large_d98c80117d.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/118/cameras/1021_model_small_58fcd185e1.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung GX-1L"
+                }
+            },
+            {
+                "id": "digimax_a4",
+                "name": {
+                    "_content": "Samsung Digimax A4"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "10.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "nv15",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2117/cameras/72157602785541396_model_large_b51fbd7f80.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2117/cameras/72157602785541396_model_small_2d959b7b5b.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung NV15"
+                }
+            },
+            {
+                "id": "digimax_420",
+                "name": {
+                    "_content": "Samsung Digimax 420"
+                }
+            },
+            {
+                "id": "digimax_v3",
+                "name": {
+                    "_content": "Samsung Digimax V3"
+                }
+            },
+            {
+                "id": "digimax_i70",
+                "name": {
+                    "_content": "Samsung Digimax i70"
+                }
+            },
+            {
+                "id": "digimax_s830",
+                "name": {
+                    "_content": "Samsung Digimax S830"
+                }
+            },
+            {
+                "id": "sgh-a707",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1167/cameras/50233_model_large_315d38a7bd.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1167/cameras/50233_model_small_2308f4d546.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-A707"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "6.1"
+                    },
+                    "memory_type": {
+                        "_content": "SD Memory Card"
+                    }
+                },
+                "id": "gx-1s",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1382/cameras/791_model_large_153dca23b9.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1382/cameras/791_model_small_2ed827f350.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung GX-1S"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "8.1"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_l85",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1038/cameras/1087_model_large_b3342dac0f.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1038/cameras/1087_model_small_02aa1a89c8.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L85"
+                }
+            },
+            {
+                "id": "digimax_370",
+                "name": {
+                    "_content": "Samsung Digimax 370"
+                }
+            },
+            {
+                "id": "digimax_a502",
+                "name": {
+                    "_content": "Samsung Digimax A502"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "8.2"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "i85",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2381/cameras/72157602033185615_model_large_ce78b9d10c.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2381/cameras/72157602033185615_model_small_8354a198b0.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung i85"
+                }
+            },
+            {
+                "id": "digimax_360",
+                "name": {
+                    "_content": "Samsung Digimax 360"
+                }
+            },
+            {
+                "id": "sch-u700",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2384/cameras/72157600292629151_model_large_0963d60aaf.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2384/cameras/72157600292629151_model_small_40e21a250e.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SCH-u700"
+                }
+            },
+            {
+                "id": "digimax_a403",
+                "name": {
+                    "_content": "Samsung Digimax A403"
+                }
+            },
+            {
+                "id": "sgh-a737",
+                "images": {
+                    "large": {
+                        "_content": "https://farm3.staticflickr.com/2263/cameras/72157601237460122_model_large_3376a876ab.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm3.staticflickr.com/2263/cameras/72157601237460122_model_small_a7028a5814.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-A737"
+                }
+            },
+            {
+                "id": "digimax_i50_mp3",
+                "name": {
+                    "_content": "Samsung Digimax i50 MP3"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "3"
+                    },
+                    "megapixels": {
+                        "_content": "7"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital (SD) Card"
+                    }
+                },
+                "id": "l74",
+                "images": {
+                    "large": {
+                        "_content": "https://farm4.staticflickr.com/3171/cameras/72157600293719014_model_large_605917a3e0.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm4.staticflickr.com/3171/cameras/72157600293719014_model_small_4f2f841a5b.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung L74"
+                }
+            },
+            {
+                "id": "digimax_240",
+                "name": {
+                    "_content": "Samsung Digimax 240"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "240"
+                    },
+                    "megapixels": {
+                        "_content": "8"
+                    }
+                },
+                "id": "gt-m8800",
+                "images": {
+                    "large": {
+                        "_content": "https://farm5.staticflickr.com/4043/cameras/72157606579008648_model_large_48e9b976a0.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm5.staticflickr.com/4043/cameras/72157606579008648_model_small_1e7968a7d6.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung GT-M8800"
+                }
+            },
+            {
+                "id": "digimax_a302",
+                "name": {
+                    "_content": "Samsung Digimax A302"
+                }
+            },
+            {
+                "id": "sph-a900",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1148/cameras/12432_model_large_fe3b71c50f.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1148/cameras/12432_model_small_845dba032a.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SPH-A900"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "MultiMediaCard, Secure Digital (SD) Card"
+                    }
+                },
+                "id": "digimax_l55w",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/116/cameras/1689_model_large_2cdf2ffb52.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/116/cameras/1689_model_small_1503d909a1.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax L55W"
+                }
+            },
+            {
+                "id": "sgh-f250l",
+                "name": {
+                    "_content": "Samsung SGH-F250L"
+                }
+            },
+            {
+                "id": "digimax_u-ca_501",
+                "name": {
+                    "_content": "Samsung Digimax U-CA 501"
+                }
+            },
+            {
+                "id": "digimax_v6",
+                "name": {
+                    "_content": "Samsung Digimax V6"
+                }
+            },
+            {
+                "id": "digimax_101",
+                "name": {
+                    "_content": "Samsung Digimax 101"
+                }
+            },
+            {
+                "id": "kenox_x80",
+                "name": {
+                    "_content": "Samsung Digimax L80"
+                }
+            },
+            {
+                "id": "l110",
+                "name": {
+                    "_content": "Samsung L110"
+                }
+            },
+            {
+                "id": "z400",
+                "name": {
+                    "_content": "Samsung Z400"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    }
+                },
+                "id": "sc-d6040",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1227/cameras/2704_model_large_f642e97e95.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1227/cameras/2704_model_small_3f17bcc0d4.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung DuoCam SC-D6040"
+                }
+            },
+            {
+                "id": "sch-u540",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1109/cameras/72157600293098820_model_large_6a94d42f74.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1109/cameras/72157600293098820_model_small_9d37ee55ea.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SCH-U540"
+                }
+            },
+            {
+                "id": "digimax_210se",
+                "name": {
+                    "_content": "Samsung Digimax 210SE"
+                }
+            },
+            {
+                "id": "z560",
+                "name": {
+                    "_content": "Samsung Z560"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "2.5"
+                    },
+                    "megapixels": {
+                        "_content": "5"
+                    },
+                    "memory_type": {
+                        "_content": "Secure Digital, MultiMediaCard"
+                    }
+                },
+                "id": "digimax_a55w",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/503_model_large_2df865b9b7.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/105/cameras/503_model_small_154501a7f6.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax A55W"
+                }
+            },
+            {
+                "details": {
+                    "megapixels": {
+                        "_content": "1.3"
+                    }
+                },
+                "id": "sgh-t809",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/102/cameras/1405_model_large_8272ba771c.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/102/cameras/1405_model_small_7c7f052d26.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-T809"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "1.5"
+                    },
+                    "megapixels": {
+                        "_content": "4.1"
+                    },
+                    "memory_type": {
+                        "_content": "Memory Stick Duo, Memory Stick PRO Duo"
+                    }
+                },
+                "id": "digimax_u-ca_4",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/115/cameras/2076_model_large_db3c1461d1.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/115/cameras/2076_model_small_6893360450.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax U-CA 4"
+                }
+            },
+            {
+                "id": "sgh-e256",
+                "name": {
+                    "_content": "Samsung SGH-E256"
+                }
+            },
+            {
+                "id": "sc-d6550",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/102/cameras/1176_model_large_822a9ae2a2.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/102/cameras/1176_model_small_2a9f6ce16a.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung DuoCam SC-D6550"
+                }
+            },
+            {
+                "details": {
+                    "lcd_screen_size": {
+                        "_content": "1.5"
+                    },
+                    "megapixels": {
+                        "_content": "4"
+                    },
+                    "memory_type": {
+                        "_content": "Memory Stick Duo"
+                    }
+                },
+                "id": "digimax_u-ca_401",
+                "images": {
+                    "large": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/1695_model_large_753b9b9947.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm1.staticflickr.com/121/cameras/1695_model_small_921dfc2a47.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung Digimax U-CA 401"
+                }
+            },
+            {
+                "id": "sch-a990",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1275/cameras/2694_model_large_2bda8f1d84.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1275/cameras/2694_model_small_7d010a50e2.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SCH-A990"
+                }
+            },
+            {
+                "id": "sgh-t729",
+                "name": {
+                    "_content": "Samsung SGH-T729"
+                }
+            },
+            {
+                "id": "sgh-t329",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1057/cameras/72157600288593021_model_large_e70fbedf45.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1057/cameras/72157600288593021_model_small_f8c6de5502.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SGH-T329"
+                }
+            },
+            {
+                "id": "sc-d353",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1437/cameras/4053_model_large_f8762ec560.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1437/cameras/4053_model_small_1dec4befbe.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung DuoCam SC-D353"
+                }
+            },
+            {
+                "id": "z370",
+                "name": {
+                    "_content": "Samsung Z370"
+                }
+            },
+            {
+                "id": "sph-a940",
+                "name": {
+                    "_content": "Samsung SPH-A940"
+                }
+            },
+            {
+                "id": "miniket",
+                "name": {
+                    "_content": "Samsung Miniket"
+                }
+            },
+            {
+                "id": "sch-a815",
+                "name": {
+                    "_content": "Samsung SCH-A815"
+                }
+            },
+            {
+                "id": "sph-a503",
+                "name": {
+                    "_content": "Samsung SPH-A503"
+                }
+            },
+            {
+                "id": "sch-a970",
+                "images": {
+                    "large": {
+                        "_content": "https://farm2.staticflickr.com/1329/cameras/991_model_large_1934271724.jpg"
+                    },
+                    "small": {
+                        "_content": "https://farm2.staticflickr.com/1329/cameras/991_model_small_0391cbc080.jpg"
+                    }
+                },
+                "name": {
+                    "_content": "Samsung SCH-A970"
+                }
+            },
+            {
+                "id": "sph-a800",
+                "name": {
+                    "_content": "Samsung SPH-A800"
+                }
+            },
+            {
+                "id": "vp-d6040i",
+                "name": {
+                    "_content": "Samsung VP-D6040i"
+                }
+            }
+        ]
+    },
+    "stat": "ok"
+}
