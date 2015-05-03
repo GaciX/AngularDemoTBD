@@ -15,33 +15,41 @@
 	-Porque nos ayuda a extender el vocabulario de HTML y así poder desarrollar de mánera rápida aplicaciones ordenas y entendibles.
 
 -Arquitectura general
-Planteamiento de arquitecturas estándar MVC, nos ayuda a separar conceptos, haciendo el código más manejable evitando convertirse en el temido “Spaguetti Code“.AngularJS proporciona controladores, servicios y directivas para organizar el proyecto.
-Controladores: Son el comportamiento de los elementos que forman el DOM (Modelo de Objetos del Documento). Angular permite formular estos comportamientos sin la necesidad de estar actualizando el DOM  ni de de estar revisando los cambios en el modelo. 
-Servicios: ...
-Directivas: característica exclusiva de AngularJS, que permite crear una sintaxis propia para HTML.
+	Planteamiento de arquitecturas estándar MVC, nos ayuda a separar conceptos, haciendo el código más manejable evitando convertirse en el temido “Spaguetti Code“.AngularJS proporciona controladores, servicios y directivas para organizar el proyecto.
+	- Controladores: Son el comportamiento de los elementos que forman el DOM (Modelo de Objetos del Documento). Angular permite formular estos comportamientos sin la necesidad de estar actualizando el DOM  ni de de estar revisando los cambios en el modelo. 
+	- Servicios: ...
+	- Directivas: característica exclusiva de AngularJS, que permite crear una sintaxis propia para HTML.
 
 -Ventajas y desventajas
-*Ventajas:
-Portabilidad: solo es dependiente de su lenguaje de programación (AngularJS). Como es el lenguaje frontal puede usar cualquier lengua trasero.
-Fluidez: la página no muestra el molesto refresh de movimientos entre páginas. 
-Separación de la lógica de presentación de la vista, de forma que el código Javascript es independiente al código HTML por lo que podríamos rehacer la vista sin necesidad de tener que tocar ni una sola línea de nuestra lógica de negocio. Además, nuestro código es extremadamente fácil testear ya que no dependemos de ningún contexto externo (es lógica pura).
-Facilidad a la hora de manipular los elementos del DOM y sus propiedades. Esta es una tarea que, por norma general, es bastante tediosa y a medida que la lógica de presentación crece suele ser complicado escribir código que pueda mantenerse con facilidad. AngularJS simplifica mucho la labor en este sentido.
-AngularJS respaldado por Google y una gran y creciente comunidad.
+	*Ventajas:
+	- Portabilidad: solo es dependiente de su lenguaje de programación (AngularJS). Como es el lenguaje frontal puede usar cualquier lengua trasero.
+	- Fluidez: la página no muestra el molesto refresh de movimientos entre páginas. 
+	- Separación de la lógica de presentación de la vista, de forma que el código Javascript es independiente al código HTML por lo que podríamos rehacer la vista sin necesidad de tener que tocar ni una sola línea de nuestra lógica de negocio. Además, nuestro código es extremadamente fácil testear ya que no dependemos de ningún contexto externo (es lógica pura).
+	- Facilidad a la hora de manipular los elementos del DOM y sus propiedades. Esta es una tarea que, por norma general, es bastante tediosa y a medida que la lógica de presentación crece suele ser complicado escribir código que pueda mantenerse con facilidad. AngularJS simplifica mucho la labor en este sentido.
 
 
-*Desventaja
-Seguridad: las llamadas están a la vista, es decir que los requeté y peticiones pueden ser vistos desde la consola. Por lo que limita la cantidad desinformación que podemos manejar.
-Falta de documentación: La documentación oficial de angular no es que esté mal, pero no es todo lo completa que a uno le gustaría, muchas veces falta ejemplos y no siempre está actualizada. Es verdad que es fácil encontrar documentación en forma de videos, tutoriales y posts, pero la velocidad a la que se desarrolla angular hace que se queden obsoletos muy pronto. En cuanto sales de los ejemplos típicos y encuentras problemas, no encuentras mucha ayuda.
+	*Desventaja
+	- Seguridad: las llamadas están a la vista, es decir que los requeté y peticiones pueden ser vistos desde la consola. Por lo que limita la cantidad desinformación que podemos manejar.
+	- Falta de documentación: La documentación oficial de angular no es que esté mal, pero no es todo lo completa que a uno le gustaría, muchas veces falta ejemplos y no siempre está actualizada. Es verdad que es fácil encontrar documentación en forma de videos, tutoriales y posts, pero la velocidad a la que se desarrolla angular hace que se queden obsoletos muy pronto. En cuanto sales de los ejemplos típicos y encuentras problemas, no encuentras mucha ayuda.
+	- No es fácil migrar a otro framework:
+	- Consistencia entre versiones: 
 
 
 -Comparación con sus competidores en el mercado.
-JQuery
-BackboneJS
-EmberJS.
+	- JQuery
+	- BackboneJS
+	- EmberJS.
 
 
 
 -Recursos asociados y material de apoyo.
+"IDE, DOcumentación oficial, algún curso de coursera o codeschool, etc."
+
 
 -Referencias. 
 http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/
+http://blog.koalite.com/2013/06/angularjs-lo-bueno-y-lo-malo/
+http://blog.koalite.com/2013/10/angularjs-6-meses-despues/
+http://blog.koalite.com/2013/05/angularjs-conceptos-basicos/
+http://blog.koalite.com/2014/06/angularjs-gracias-por-los-servicios-prestados/ (acá menciona porqué se aburrió de Angular)
+
