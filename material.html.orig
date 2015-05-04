@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <div class="container">
+	<h1>Material de apoyo</h1>
+=======
+<div>
+	<h1><strong>Material de apoyo</strong></h1>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
 	<ul><h3>
 		<li><strong>Guía oficial de Angular:</strong></li>
 			<i><h4><a href="https://docs.angularjs.org/guide" target="_blank">https://docs.angularjs.org/guide</a></h4></i>
@@ -11,7 +17,11 @@
 	</h3></ul>
 
 	<div class="text-center">
+<<<<<<< HEAD
 	<a href="#/comparacion"> < Anterior</a> |
+=======
+	<a href="#/comparaciones"> < Anterior |</a>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
 	<a href="#/demo"> Siguiente > </a>
 	</div>
 </div>

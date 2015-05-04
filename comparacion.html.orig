@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="container">
 	<h1>Comparación con la Competencia</h1>
 	<div class="row">
@@ -16,25 +17,16 @@
 			<img src="img/angular-jquery.jpg" class="img-responsive">
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-6">
-		<br><h4>Búsquedas en Google:</h4>
-			<img src="img/comparaciones_1.png" class="img-responsive">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<br><br><h4>Tabla comparativa uno:</h4>
-			<img src="img/comparaciones_2.png" class="img-responsive">
-		</div>
-		<div class="col-md-6">
-			<br><br><h4>Tabla comparativa dos:</h4>
-			<img src="img/comparaciones_3.png" class="img-responsive">
-		</div>
-	</div>
-
-	<br>
-
+=======
+<div>
+	<h1><strong>Angular vs Backbone vs Ember</strong></h1>
+	<br><h4><strong>Búsquedas en Google:</strong></h4><br>
+	<img src="img/comparaciones_1.png">
+	<br><br><h4><strong>Tabla comparativa uno:</strong></h4><br>
+	<img src="img/comparaciones_2.png">
+	<br><br><h4><strong>Tabla comparativa dos:</strong></h4><br>
+	<img src="img/comparaciones_3.png">
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
 	<div class="text-center">
 		<a href="#/desventajas"> < Anterior</a> |
 		<a href="#/material"> Siguiente > </a>

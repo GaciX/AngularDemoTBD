@@ -1,0 +1,53 @@
+<script type="text/javascript">
+	$(function() {
+		$("#controladores").click(function(event) {
+		$("#capa").load("components/controladores.html");
+		});
+		$("#servicios").click(function(event) {
+		$("#capa").load("components/servicios.html");
+		});
+		$("#directivas").click(function(event) {
+		$("#capa").load("components/directivas.html");
+		});
+	});
+</script>
+
+<<<<<<< HEAD
+<div class="container">
+	<div class="row">
+		<div class = "col-md-3">
+=======
+<div>
+	<div class="row">
+		<div class = "col-xs-3">
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
+			<h1>Arquitectura del Framework</h1>
+			<ul><h3>
+				<p id="controladores" href="#"><button type="button" class="btn btn-danger btn-lg">Controladores</button></p>
+				<p id="servicios" href="#"><button type="button" class="btn btn-danger btn-lg">Servicios</button></p>
+				<p id="directivas" href="#"><button type="button" class="btn btn-danger btn-lg">Directivas</button></p>
+<<<<<<< HEAD
+			</h3></ul>
+		</div>
+		<div class = "col-md-9">
+			<div id="capa"></div>
+		</div>
+	</div>
+
+	<div class="text-center">
+		<a href="#/porque"> < Anterior |</a>
+		<a href="#/ventajas"> Siguiente > </a>
+	</div>
+=======
+			<h3></ul>
+		</div>
+		<div class = "col-xs-9">
+			<div id="capa"></div>
+		</div>
+	</div>
+	<div class="text-center">
+		<a href="#/porque"> < Anterior |</a>
+		<a href="#/ventajas"> Siguiente > </a>
+	</div>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
+</div>

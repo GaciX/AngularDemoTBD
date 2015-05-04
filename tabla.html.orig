@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div class="container">
+=======
+<div>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
 	<div class="row">
 		<div class="col-xs-4">
 			<h1>Tabla de contenidos</h1>
@@ -18,9 +22,13 @@
 			<img src="img/imagen-tabla.png" height="280" class="img-thumbnail">
 		</div>
 	</div>
-
 	<div class="text-center">
 		<a href="#/inicio"> < Anterior |</a>
 		<a href="#/introduccion"> Siguiente > </a>
 	</div>
+<<<<<<< HEAD
 </div>
+
+=======
+</div>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738

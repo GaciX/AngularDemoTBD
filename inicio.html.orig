@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+<div class="col-xs-offset-3">
+	<h1><strong>Presentación AngularJS TBD</strong></h1>
+	<h3><ul>
+		<li>Daniel Gacitúa</li>
+		<li>Nicole Henríquez</li>
+		<li>Patricio Vargas</li>
+		<br>
+		<li>Profesores: Mauricio Marín, Rodrigo Vásquez</li>
+		<li>Ayudante: José Orellana
+	</ul></h3>
+	<h2><b>Fecha: 4 de Mayo de 2015</b></h2>
+
+	<br/>
+</div>
+<div class="text-center">
+	| <a href="#/tabla-contenido">Siguiente ></a>
+=======
+<div>
+	<div class="col-xs-offset-4">
+		<h1><strong>Presentación AngularJS TBD</strong></h1>
+		<h3><ul>
+			<li>Daniel Gacitúa</li>
+			<li>Nicole Henríquez</li>
+			<li>Patricio Vargas</li>
+			<br>
+			<li>Profesores: Mauricio Marín, Rodrigo Vásquez</li>
+			<li>Ayudante: José Orellana
+		</ul></h3>
+		<h2><b>Fecha: 4 de Mayo de 2015</b></h2>
+	</div>
+	<div class="text-center">
+		<a href="#/tabla-contenido">| Siguiente > </a>
+	</div>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
+</div>

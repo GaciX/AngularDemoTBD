@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div class="container">
+	<h1>Bibliografía y referencias</h1>
+=======
+<div>
 	<h1><strong>Bibliografía y referencias</strong></h1>
 	<div class="col-xs-offset-1">
 		<h4><li>http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/</li><br>
@@ -10,6 +14,7 @@
 		<li>http://www.angularjs.org</li><br>
 		<li>http://www.lostiemposcambian.com/blog/javascript/backbone-vs-angular-vs-ember/</li><br></h4>
 	</div>
+>>>>>>> 35b88b5294555febef0500273f66a829f2beb738
 	<div class="text-center">
 		<a href="#/demo"> < Anterior |</a>
 	</div>
