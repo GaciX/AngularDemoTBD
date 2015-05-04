@@ -14,6 +14,7 @@
 				</tr>
 			</thead>
 			<tbody>
+				<!-- Usamos 'ng-repeat' para iterar sobre el objeto 'item', que es un alias de la variable 'objeto' pasada por el controlador-->
 				<tr ng-repeat="item in objeto.cameras.camera">
 					<td>{{item.name._content}}</td>
 					<td>{{item.details.megapixels._content}}</td>
